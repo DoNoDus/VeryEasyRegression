@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/473644854922699802/143e1126af54454d9f473ba6231bbda4/artifacts
+end_time: 1702975448456
+entry_point_name: ''
+experiment_id: '473644854922699802'
+lifecycle_stage: active
+run_id: 143e1126af54454d9f473ba6231bbda4
+run_name: beautiful-hare-538
+run_uuid: 143e1126af54454d9f473ba6231bbda4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702975439202
+status: 3
+tags: []
+user_id: chira

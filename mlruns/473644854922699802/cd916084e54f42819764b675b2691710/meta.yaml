@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/473644854922699802/cd916084e54f42819764b675b2691710/artifacts
+end_time: 1702976929746
+entry_point_name: ''
+experiment_id: '473644854922699802'
+lifecycle_stage: active
+run_id: cd916084e54f42819764b675b2691710
+run_name: serious-roo-688
+run_uuid: cd916084e54f42819764b675b2691710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702976918082
+status: 3
+tags: []
+user_id: chira

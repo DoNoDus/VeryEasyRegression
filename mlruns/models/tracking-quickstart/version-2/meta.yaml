@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702975448435
+current_stage: None
+description: ''
+last_updated_timestamp: 1702975448435
+name: tracking-quickstart
+run_id: 143e1126af54454d9f473ba6231bbda4
+run_link: ''
+source: mlflow-artifacts:/473644854922699802/143e1126af54454d9f473ba6231bbda4/artifacts/linear_regression_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/473644854922699802/143e1126af54454d9f473ba6231bbda4/artifacts/linear_regression_model
+user_id: null
+version: 2
